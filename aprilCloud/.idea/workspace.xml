@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3aefe862-6952-43e9-a7a6-965ed5e81224" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../AprilCloud/number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AprilCloud/venv/lib64" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AprilCloud/number.py" beforeDir="false" afterPath="$PROJECT_DIR$/../AprilCloud/number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

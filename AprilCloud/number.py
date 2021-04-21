@@ -10,14 +10,12 @@ if __name__ == '__main__':
     print("Hello World")
     print("Hello World : " + str(10))
 
-    p = 800000
-    r = 6
-    l = 103
-
+    print("\ninput data:")
+    x = input().split()
 
     def calculate_monthly_payment(p, r, l):
         amount = r / 12 / 100 * p / (1 - (1 + r / 12 / 100) ** -l)
         return math.ceil(amount)
 
-
-    print(calculate_monthly_payment(p, r, l))
+    print("\noutput data:")
+    print(calculate_monthly_payment(int(x[0]), int(x[1]), int(x[2])))
