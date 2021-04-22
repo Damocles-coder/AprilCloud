@@ -2,9 +2,9 @@ import math
 
 if __name__ == '__main__':
     print((50 + 50) + (100 - 10))
-    print(30 * 6)
     # bitwise xor returns 0000 as they are the same number 0110
     print(6 ^ 6)
+    print(30 * +6)
     print(6 ** 6)
     print(6 + 6 + 6 + 6 + 6 + 6)
     print("Hello World")
