@@ -59,7 +59,25 @@ if __name__ == '__main__':
         return j
     print(func9('func9834'))
 
-    # 10, 11, 12 not sure what python notebook exercises are referring to
+    # 10
+    def func10(number):
+        if is_even(number):
+            print('even')
+        else:
+            print('odd')
+    print(is_even(2))
+    print(is_even(3))
+
+    # 11
+    def func11(word):
+        return word[0:1]
+    print(func11('word'))
+
+    # 12
+    def func12(number):
+        return number*number
+    print(func12(12))
+
     # 13 might be able to do with lambda, but not sure how to pass in index
     def func13(word):
         j = ''
