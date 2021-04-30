@@ -1,0 +1,14 @@
+1. How many images are in vm?
+Not sure about this question
+
+2. What is the size of Ubuntu image?
+72.7MB for latest image
+
+3. What is the image tag of nginx image?
+The identifier for the image
+
+4. What is the base image from the Dockerfile?
+A base image has no parent image specified in its Dockerfile. It is created using a Dockerfile with the FROM scratch directive.
+
+5. To what location within the container is the application code copied to during a Docker build? Refer Dockerfile.
+The COPY instruction copies new files or directories from <src> and adds them to the filesystem of the container at the path <dest>. (edited) 
