@@ -1,0 +1,20 @@
+1. Visudo - edits sudoer file in a safe fashion, useful for giving sudo access to other machines
+2. w/who - shows currently logged in users
+3. grep - pattern matching for files
+4. mount - attach file systems at a particular mounting point
+5. comm - file lines comparison
+6. curl - download with more protocal options than wget
+7. sed - change files at specific parts
+8. tar - file extraction/archiving
+9. chown - change file owner and group
+10. bc - command line calculator
+11. ping - send and receive packets to destination IP
+12. gzip - compress file and remove original
+13. free - see available/used memory
+14. apt - advance package tool
+15. history - past commands (done in class)
+16. sudo - run as root
+17. zip/unzip - simple zip compression/extraction
+18. reboot - self-explanatory
+19. sort - self-explanatory
+20. dif - compare two different directories
