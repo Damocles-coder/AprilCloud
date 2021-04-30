@@ -5,7 +5,7 @@ Not sure about this question
 72.7MB for latest image
 
 3. What is the image tag of nginx image?
-The identifier for the image
+The identifier for the image that would determine which version would be pulled from a docker repository
 
 4. What is the base image from the Dockerfile?
 A base image has no parent image specified in its Dockerfile. It is created using a Dockerfile with the FROM scratch directive.
