@@ -1,0 +1,10 @@
+piVersion: v1
+kind: Pod
+metadata:
+  name: nginx
+  labels:
+    env: taintTest
+spec:
+  containers:
+  - name: nginx
+    image: nginx
